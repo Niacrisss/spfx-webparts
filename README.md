@@ -8,7 +8,7 @@ Each folder under [`samples/`](./samples) is a self-contained SPFx project with 
 
 | Sample | Description | SPFx |
 | ------ | ----------- | ---- |
-| [birthday-calendar](./samples/birthday-calendar) | Team birthdays on a month calendar, with person cards showing department, job title and office, and one-click email or Teams greetings. | 1.23.2 |
+| [react-birthday-calendar](./samples/react-birthday-calendar) | Team birthdays on a month calendar, with person cards showing department, job title and office, and one-click email or Teams greetings. | 1.23.2 |
 
 ## Getting started with any sample
 
